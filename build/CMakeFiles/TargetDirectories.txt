@@ -1,3 +1,0 @@
-C:/Users/Trung_Hoa/Desktop/Cmake/build/CMakeFiles/edit_cache.dir
-C:/Users/Trung_Hoa/Desktop/Cmake/build/CMakeFiles/cmake.dir
-C:/Users/Trung_Hoa/Desktop/Cmake/build/CMakeFiles/rebuild_cache.dir

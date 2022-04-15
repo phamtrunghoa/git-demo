@@ -1,3 +1,0 @@
-"C:\Program Files (x86)\Microsoft Visual Studio\2019\BuildTools\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E rm -f CMakeFiles\cmake.dir/objects.a
-D:\Downloads\winlibs-x86_64-posix-seh-gcc-11.2.0-llvm-12.0.1-mingw-w64-9.0.0-r1\mingw64\bin\ar.exe cr CMakeFiles\cmake.dir/objects.a @CMakeFiles\cmake.dir\objects1.rsp
-D:\Downloads\winlibs-x86_64-posix-seh-gcc-11.2.0-llvm-12.0.1-mingw-w64-9.0.0-r1\mingw64\bin\x86_64-w64-mingw32-g++.exe -g -Wl,--whole-archive CMakeFiles\cmake.dir/objects.a -Wl,--no-whole-archive -o cmake.exe -Wl,--out-implib,libcmake.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmake.dir\linklibs.rsp
