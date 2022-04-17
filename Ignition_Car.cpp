@@ -17,3 +17,22 @@ Dòng điện cao áp này được bộ chia điện đưa đến nến bugi qu
 Bộ chia điện: Chia nguồn điện cao áp từ bôbin đến các xi lanh. Điều này được thực hiện bởi trục bộ chia điện và con quay gắn ở đầu. 
 Cuộn thứ cấp của tăng điện được kết nối với con quay, nắp bộ chia điện có các đầu nối với các dây cao áp đến các xi lanh. 
 Khi con quay quay vòng tròn nó sẽ chia nguồn điện cao áp cho các xi lanh theo một tứ tự nhất định.
+
+Tia lửa mạnh
+
+Trong hệ thống đánh lửa, tia lửa được phát ra giữa các điện cực của các bugi để đốt cháy hỗn hợp hòa khí. 
+Hòa khí bị nén có điện trở lớn, nên cần phải tạo ra điện thế hàng chục ngàn vôn để đảm bảo phát ra tia lửa mạnh, 
+có thể đốt cháy hỗn hợp hòa khí.
+
+- Thời điểm đánh lửa chính xác
+
+Hệ thống đánh lửa phải luôn luôn có thời điểm đánh lửa chính xác vào cuối kỳ nén của các xy lanh và góc đánh lửa sớm phù hợp với sự thay đổi 
+tốc độ và tải trọng của động cơ.
+
+- Có đủ độ bền
+
+Hệ thống đánh lửa phải có đủ độ tin cậy để chịu đựng được tác động của rung động và nhiệt của động cơ. 
+Hệ thống đánh lửa sử dụng điện cao áp do bô bin tạo ra nhằm phát ra tia lửa điện để đốt cháy hỗn hợp hòa khí đã được nén ép. 
+Hỗn hợp hòa khí được nén ép và đốt cháy trong xi lanh. Sự bốc cháy này tạo ra động lực của động cơ. 
+Nhờ có hiện tượng tự cảm và cảm ứng tương hỗ, cuộn dây tạo ra điện áp cao cần thiết cho đánh lửa. 
+Cuộn sơ cấp tạo ra điện thế hàng trăm vôn còn cuộn thứ cấp thì tạo ra điện thế hàng chục ngàn vôn.
